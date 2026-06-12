@@ -27,4 +27,3 @@ This project analyzes mutual fund data using Python, SQL and dashboarding tools.
 - NAV data fetched
 - Dataset validation completed
 - Data quality report created
--
