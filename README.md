@@ -27,3 +27,29 @@ This project analyzes mutual fund data using Python, SQL and dashboarding tools.
 - NAV data fetched
 - Dataset validation completed
 - Data quality report created
+
+## Dashboard Pages
+
+1. Industry Overview
+2. Fund Performance
+3. Investor Analytics
+4. SIP & Market Trends
+5. NAV Detail Page
+
+## Tools Used
+
+- Python
+- Pandas
+- SQLite
+- Jupyter Notebook
+- Power BI
+
+## Key Metrics
+
+- Total AUM
+- SIP Inflows
+- Folios
+- Fund Performance
+- Alpha
+- Beta
+- Sharpe Ratio

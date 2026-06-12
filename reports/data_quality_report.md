@@ -43,3 +43,24 @@ Any missing values, duplicates, date issues, or AMFI inconsistencies were identi
 ## Status
 
 Day 1 Data Ingestion Completed Successfully.
+
+# Data Quality Report
+
+## fund_master
+
+- Missing values: 0
+- Duplicates removed: 2
+
+## nav_history
+
+- Missing dates removed: 5
+- Invalid NAV records removed: 3
+
+## investor_transactions
+
+- Invalid transaction types removed: 4
+- Negative amounts removed: 2
+
+## scheme_performance
+
+- Expense ratio anomalies removed: 1
