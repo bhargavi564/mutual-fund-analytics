@@ -1,3 +1,8 @@
+"""
+Mutual Fund Analytics Project
+Author: Bhargavi Yeramgari
+Purpose: Clean NAV dataset And perform preprocessing.
+"""
 #Clean nav_history.csv
 
 import pandas as pd
@@ -70,3 +75,4 @@ df.to_csv(
     "data/processed/scheme_performance_clean.csv",
     index=False
 )
+print("NAV History cleaned successfully")

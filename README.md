@@ -4,12 +4,26 @@
 
 This project analyzes mutual fund data using Python, SQL and dashboarding tools.
 
+- data/
+- notebooks/
+- scripts/
+- sql/
+- dashboard/
+- reports/
+
 ## Objectives
 
 - Load and validate mutual fund datasets
 - Fetch live NAV data using APIs
 - Perform exploratory data analysis
 - Build dashboards for insights
+- Data Ingestion
+- Data Cleaning
+- SQLite Database
+- Exploratory Data Analytics
+- Performance Analytics
+- Advanced Analytics
+- Power BI Dashboard
 
 ## Folder Structure
 
@@ -53,3 +67,7 @@ This project analyzes mutual fund data using Python, SQL and dashboarding tools.
 - Alpha
 - Beta
 - Sharpe Ratio
+
+##### Auther
+
+Bhargavi Yeramgari

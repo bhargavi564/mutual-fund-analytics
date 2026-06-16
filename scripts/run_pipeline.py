@@ -1,0 +1,5 @@
+print("Step 1 : Data Ingestion")
+print("Step 2 : Data Cleaning")
+print("Step 3 : Load to SDLite")
+print("Step 4 : Fetch Live NAV")
+print("Pipeline Completed")

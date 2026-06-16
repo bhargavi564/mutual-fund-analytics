@@ -1,3 +1,8 @@
+"""
+Mutual Fund Analytics Project
+Author: Bhargavi Yeramgari
+Purpose: Calculate CAGR, Sharp RAtio, Sortino Ratio and other metrics.
+"""
 import pandas as pd
 from sqlalchemy import create_engine
 
@@ -16,4 +21,4 @@ df.to_sql(
     index=False
 )
 
-print("Loaded Successfully")
+print("Performance metrics calculated Successfully")
